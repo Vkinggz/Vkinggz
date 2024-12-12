@@ -13,7 +13,7 @@
 ### Minhas informações no GitHub:
 <div>
   <a href="https://github.com/Vkinggz">
-  <img height="180em" src="https://github-stats-vkinggz.vercel.app/api?username=Vkinggz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api/pin/?username=Vkingzz&repo=github-readme-stats)](https://github.com/Vkinggz/github-readme-stats)"/>
   <img height="180em" src="https://github-stats-vkinggz.vercel.app/api/top-langs/?username=Vkinggz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
  </div>
   
