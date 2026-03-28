@@ -2,7 +2,7 @@
 <img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="125"/>
 ### Olá! Me chamo Vitor Eliel seja bem vindo(a) ao meu GitHub!         
 
-- 🖥 Estudante de Ciência da Computação 7/8
+- 🖥 Estudante de Ciência da Computação 8/8
 - 🎈 São Paulo - SP
 
 <em>"O valor de um homem deve medir-se pelo que dá e não pelo que recebe. Não se converta em um homem de sucesso senão num homem de valores. O único lugar onde o sucesso vem antes do trabalho é no dicionário. A educação é o que sobra depois que a gente se esquece do que aprendeu na escola."</em>
