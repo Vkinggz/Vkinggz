@@ -9,15 +9,6 @@
   -Albert Einstein
   
   ##
-
-### Minhas informações no GitHub:
-<p>
-  <img align="left" alt="Github stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Vkinggz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  
-
-</p>
-  
-  ##
   
 ### Linguagens, Tecnologias as quais tenho conhecimento:  
   <div style="display: inline_block"><br>
@@ -31,8 +22,8 @@
   <img align="center" alt="Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+
+### Minhas informações no GitHub:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkinggz&show_icons=true)
     
    ##
-   
-   <h1 align="center"> Obrigado e volte sempre! 👋</h1>
-   <img align="center" alt="Sonic" width="847" src="https://media1.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif?cid=ecf05e47q71gll530dg24isz0yx0h0iiqbdpr9cinapaozdx&rid=giphy.gif&ct=g">
