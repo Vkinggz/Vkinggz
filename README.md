@@ -1,5 +1,4 @@
 ![count](https://komarev.com/ghpvc/?username=Vkinggz&color=brightgreen)
-<img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="125"/>
 ### Olá! Me chamo Vitor Eliel seja bem vindo(a) ao meu GitHub!         
 
 - 🖥 Estudante de Ciência da Computação 8/8
